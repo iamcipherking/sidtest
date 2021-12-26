@@ -1,0 +1,110 @@
+/******************************************************************Body Shit Here ******************************************************************/
+body
+{
+  background-color: white;
+}
+
+
+
+
+/**************************************************************Language font-shit***************************************************************************/
+.h1
+{
+  font-family: 'Oooh Baby', cursive;
+  position: relative;
+  top:75px;
+  left: 590px;
+  font-size: 75px;
+  display: inline-block;
+}
+
+.p1
+{
+  font-family: 'Barlow', sans-serif;
+  position: relative;
+  top: 70px;
+  left: 530px;
+  font-size: 25px;
+  font-style: italic;
+  font-weight: bolder;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/***************************************************************************Divsion 1****************************************************/
+.Div1
+{
+  margin: auto;
+  padding: 0px;
+  position: 0px;
+  position: relative;
+  background-color: #EEF2FF;
+  border: none;
+  width: 1500px;
+  height: 450px;
+}
+
+.prog
+{
+  border-radius: 100%;
+  position: absolute;
+  top: 100px;
+  left: 100px;
+  display: inline-block;
+}
+
+.trader
+{
+
+ border-radius: 100%;
+ position: absolute;
+ top: 100px;
+ left: 1200px;
+ display: inline-block;
+ background-color: #000B49;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/********************************************************************************Divsion 2******************************************************************/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/********************************************************************************Divsion 3******************************************************************/
